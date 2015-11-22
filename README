@@ -1,1 +1,9 @@
-This is a README
+## Steps
+
+1. Install reshape2 package in order to run_analysis work.
+
+2. The run_analysis function download the zip file to the R wd.
+
+3. This save the tidy dataset as tidy.txt.
+
+
